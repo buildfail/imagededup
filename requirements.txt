@@ -1,5 +1,5 @@
 tensorflow>1.0
-Pillow<7.0.0
+Pillow<10.2.0
 tqdm
 scikit-learn
 PyWavelets~=1.1.1
