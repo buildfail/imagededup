@@ -1,4 +1,4 @@
-tensorflow>1.0
+tensorflow>2.12.0rc1
 Pillow<7.0.0
 tqdm
 scikit-learn
