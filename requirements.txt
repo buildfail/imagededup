@@ -6,3 +6,4 @@ PyWavelets~=1.1.1
 matplotlib
 # Development dependencies
 cython>=0.29
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
